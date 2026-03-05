@@ -273,6 +273,8 @@ Numérotation moteurs (mécanique) et numérotation ESC (logicielle) doivent cor
 -------------------------------------------------------------------------------
 
 ## Arborescence du dépôt
+
+## schema (arbo)
 drone-arduino/
 │
 ├── arduino/
