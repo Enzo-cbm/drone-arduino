@@ -45,7 +45,7 @@ Mixage moteurs → `calculer_impulsions_ESC()` → PWM ESC → `generer_impulsio
 
 
 
-
+### Schéma (top view) — configuration X
 
              Avant
                ^
